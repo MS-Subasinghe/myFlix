@@ -16,21 +16,21 @@ export const assets = {
 
 export const dummyTrailers = [
   {
-    image: "https://img.youtube.com/vi/zSWdZVtXT7E/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=zSWdZVtXT7E", // Interstellar Official Trailer
-  },
-  {
-    image: "https://img.youtube.com/vi/TcMBFSGVi1c/maxresdefault.jpg", 
-    videoUrl: "https://www.youtube.com/watch?v=TcMBFSGVi1c", // Avengers: Endgame Official Trailer
-  },
-  {
-    image: "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=EXeTwQWrcwY", // Inception Trailer
-  },
-  {
-    image: "https://img.youtube.com/vi/kmJLuwP3MbY/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=kmJLuwP3MbY", // Top Gun: Maverick Trailer
-  },
+        image: "https://img.youtube.com/vi/WpW36ldAqnM/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=WpW36ldAqnM'
+    },
+    {
+        image: "https://img.youtube.com/vi/-sAOWhvheK8/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=-sAOWhvheK8'
+    },
+    {
+        image: "https://img.youtube.com/vi/1pHDWnXmK7Y/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=1pHDWnXmK7Y'
+    },
+    {
+        image: "https://img.youtube.com/vi/umiKiW4En9g/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=umiKiW4En9g'
+    },
 ];
 
 const dummyCastsData = [
